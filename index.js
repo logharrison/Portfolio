@@ -33,7 +33,7 @@ $(document).ready(function() {
 
 		$("#next").css('transform', 'rotate(0deg)');
 	});
-
+// test comment
 	$(".menu1").click(function() {
 		$(".slide" + number).slideUp();
 		$(".menu" + number).removeClass('current');
